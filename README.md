@@ -6,8 +6,8 @@
 ---
 
 <div align="center">
-  <img alt="quadro de estatísticas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasabnovato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img alt="quadro de linguagens mais usadas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasabnovato&layout=compact&langs_count=7&theme=dracula">
+  <img alt="quadro de estatísticas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiStefanin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img alt="quadro de linguagens mais usadas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiStefanin&layout=compact&langs_count=7&theme=dracula">
 </div>
   
 ---
@@ -34,10 +34,10 @@
   
   <div align="center" style="display: inline_block"> 
     <img align="center" alt="logo do MySQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-MongoDB" height="30" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-SQLite" height="30" width="75" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-Netlify" height="30" width="75" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
-    <img align="center" alt="douglasabnovato-Heroku" height="30" width="75" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="GuiStafanin-MongoDB" height="30" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+    <img align="center" alt="GuiStafanin-SQLite" height="30" width="75" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
+    <img align="center" alt="GuiStafanin-Netlify" height="30" width="75" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
+    <img align="center" alt="GuiStafanin-Heroku" height="30" width="75" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </div>
 </div>
 
@@ -65,6 +65,6 @@
 #### Nessa empolgação 
 <div> 
   
-  ![Snake animation](https://github.com/douglasabnovato/douglasabnovato/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuiStafanin/GuiStafanin/blob/output/github-contribution-grid-snake.svg)
  
 </div>
