@@ -65,6 +65,6 @@
 #### Nessa empolgação 
 <div> 
   
-  ![Snake animation](https://github.com/GuiStafanin/GuiStafanin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GuiStefanin/GuiStefanin/blob/output/github-contribution-grid-snake.svg)
  
 </div>
