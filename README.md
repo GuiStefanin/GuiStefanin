@@ -1,4 +1,12 @@
-### Escrevendo código tomando café, ouvindo música e pedindo comida.
+ ### Escrevendo código tomando café, ouvindo música e pedindo comida.
+<div align="left">
+<h1>Um pouco sobre mim:</h1>
+🌎 | Diadema - SP 🇧🇷</br>
+👩🏽 | Ela/Dela</br>
+💻 | Desenvolvedora Web Java Jr. - Generation 👩🏽‍💻</br>
+🧮 | "A Matemática é a única linguagem que temos em comum com a natureza." - Stephen Hawking </br>
+📚 | Matemática - UFABC 👩‍🎓 📑 </br>
+</div>
 
   
 ---
