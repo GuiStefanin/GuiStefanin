@@ -1,11 +1,11 @@
- ### Escrevendo código tomando café, ouvindo música e pedindo comida.
+
 <div align="left">
-<h1>Um pouco sobre mim:</h1>
+<h2>Um pouco sobre mim:</h2>
 🌎 | Diadema - SP 🇧🇷</br>
-👩🏽 | Ela/Dela</br>
-💻 | Desenvolvedora Web Java Jr. - Generation 👩🏽‍💻</br>
+👨🏿‍💼 | Ele/Dele</br>
+💻 | Desenvolvedor Web Java Jr. - Generation Brasil</br>
 🧮 | "A Matemática é a única linguagem que temos em comum com a natureza." - Stephen Hawking </br>
-📚 | Matemática - UFABC 👩‍🎓 📑 </br>
+📚 | Matemática - UFABC  </br>
 </div>
 
   
@@ -49,7 +49,6 @@
 #### Redes Sociais   
 <div align="center">  
  
-  <a href="https://discord.com/channels/Guilherme%20Stefanin#2278" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/guilherme-stefanin/" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
